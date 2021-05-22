@@ -1,5 +1,6 @@
 # EncryptedChatroom
 Encrypted Chatroom CC2 Project
+
 Run the server, then run the client
 
 you might need to install the cryptography package pip3 install cryptography
